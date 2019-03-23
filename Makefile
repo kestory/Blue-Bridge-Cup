@@ -1,5 +1,5 @@
 git:
 	git add .
 	git status
-	git commit -m "test data"
+	git commit -m "3.23, a day before"
 	git push
