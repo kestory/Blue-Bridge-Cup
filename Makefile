@@ -1,5 +1,5 @@
 git:
 	git add .
 	git status
-	git commit -m "3.24"
+	git commit -m "second	class	prize"
 	git push
